@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AccessWay</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_access_way">AccessWay - TCC</string>
+    <string name="title_activity_lista_locais_acessiveis">Cadastro Locais Acessíveis</string>
+    <string name="title_activity_menu_access_way">menu_access_way</string>
+    <string name="title_activity_formulario_locais_acessiveis">Cadastro Locais Acessíveis</string>
+</resources>
